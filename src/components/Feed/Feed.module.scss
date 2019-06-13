@@ -2,6 +2,12 @@
 @import '../../assets/scss/mixins';
 
 .feed {
+  &__title {
+    font-size: $typographic-base-font-size;
+    @include margin-bottom(1.0);
+    color: $color-tertiary;
+    text-decoration: underline;
+  }
   &__item {
     @include margin-bottom(1.25);
 

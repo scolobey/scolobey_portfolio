@@ -5,6 +5,9 @@
   &__photo {
     display: inline-block;
     margin-bottom: 0;
+    border-style: solid;
+    border-width: thin;
+    border-color: $color-gray;
     border-radius: 50%;
     background-clip: padding-box
   }
@@ -33,4 +36,24 @@
     @include margin-bottom(1)
   }
 
+}
+
+.mountains {
+  display: block;
+  fill: white;
+  stroke-width: 3;
+  circle {
+    stroke: $color-secondary;
+    stroke-width: 1;
+  }
+  .lineA {
+    stroke: #3b5a9d;
+    stroke-width: 4;
+  }
+  .lineB {
+    stroke: $color-primary;
+  }
+  .horizon {
+
+  }
 }

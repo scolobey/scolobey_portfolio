@@ -11,6 +11,10 @@ type Props = {
 
 const Feed = ({ edges }: Props) => (
   <div className={styles['feed']}>
+    <div className={styles['feed__title']}>
+      Projects
+    </div>
+
     {edges.map((edge) => (
       <div className={styles['feed__item']} key={edge.node.fields.slug}>
         <div className={styles['feed__item-meta']}>
