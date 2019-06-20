@@ -1,6 +1,6 @@
 ---
 title: Funky Radish
-date: "2019-06-12T23:46:37.121Z"
+date: "2019-06-20T23:46:37.121Z"
 template: "post"
 draft: false
 slug: "/posts/funky_radish/"

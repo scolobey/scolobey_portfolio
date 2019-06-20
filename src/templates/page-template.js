@@ -7,18 +7,11 @@ import Page from '../components/Page';
 import { useSiteMetadata } from '../hooks';
 import type { MarkdownRemark } from '../types';
 
-import rehypeReact from "rehype-react"
-
 type Props = {
   data: {
     markdownRemark: MarkdownRemark
   }
 };
-
-const renderAst = new rehypeReact({
-  createElement: React.createElement,
-  components: { "interactive-counter": Counter },
-}).Compiler
 
 const PageTemplate = ({ data }: Props) => {
   const { title: siteTitle, subtitle: siteSubtitle } = useSiteMetadata();

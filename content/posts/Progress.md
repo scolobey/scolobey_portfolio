@@ -1,6 +1,6 @@
 ---
 title: Progress
-date: "2019-06-116T23:46:37.121Z"
+date: "2019-02-17T20:46:37.121Z"
 template: "post"
 draft: false
 slug: "/posts/progress/"
