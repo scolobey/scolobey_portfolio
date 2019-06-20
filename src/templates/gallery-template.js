@@ -12,7 +12,7 @@ const GalleryTemplate = () => {
   return (
     <Layout title={`Gallery - ${title}`} description={subtitle}>
       <Sidebar />
-      <Page title="Categories">
+      <Page title="Gallery">
         <Gallery />
       </Page>
     </Layout>
