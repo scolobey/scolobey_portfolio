@@ -4,7 +4,8 @@
   "description": "A minimal, lightweight and mobile-first starter for creating blazing-fast static blogs",
   "main": "n/a",
   "engines": {
-    "node": "9.4.0"
+    "node": "9.4.0",
+    "npm": "5.6.0"
   },
   "scripts": {
     "develop": "yarn run clean && gatsby develop",
