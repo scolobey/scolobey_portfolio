@@ -20,10 +20,6 @@ module.exports = {
     {
       label: 'Gallery',
       path: '/gallery'
-    },
-    {
-      label: 'Triangles',
-      path: '/triangles'
     }
   ],
   author: {

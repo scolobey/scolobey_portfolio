@@ -8,7 +8,6 @@ import { useSiteMetadata } from '../hooks';
 import type { MarkdownRemark } from '../types';
 
 import rehypeReact from "rehype-react"
-import Counter from "../components/Triangles"
 
 type Props = {
   data: {

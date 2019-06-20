@@ -4,7 +4,6 @@ import moment from 'moment';
 import { Link } from 'gatsby';
 import type { Edges } from '../../types';
 import styles from './Feed.module.scss';
-import Triangles from '../Triangles';
 
 type Props = {
   edges: Edges
