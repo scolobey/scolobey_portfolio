@@ -12,11 +12,11 @@ tags:
 description: "What happens when you design a recipe app for real cooks?"
 ---
 
-As a former chef with now about 5 years working to build and design recipe apps, I have a complaint. Every recipe app I've ever tried, and I've tried a lot of them, has been designed with the clear intention of making people click.
+As a former chef with now about 5 years working to build and design recipe apps, I have a complaint. Every recipe app I've ever tried (I've tried a lot of them) has been designed with the clear intention of making people click.
 
-It makes sense. Engagement in the digital recipe world is fueled by imagery. Some users do place more importance on the quality of the recipe itself than on the media content it comes with. But the signal those users send is often drowned out by that of the users who just wanna get their food porn fix and be on their merry way.
+It makes sense. Engagement in the digital recipe world is fueled by imagery. Some users do place more importance on the quality of the recipe than the media content it's packed with. But the signal those users send is drowned out by that of the users who just wanna get their food porn fix and be on their merry way.
 
-Funky Radish is a recipe app for real cooks. It is designed not as a media delivery system, but as a culinary tool. The goal is to remove any distraction from the act of cooking itself. It allows you to find recipes and store them in a save and accessible place indefinitely. Where other recipe apps are mostly attempts at recreating the success of the food network in a digital format, Funky Radish only seeks to replace the tattered and stained recipe notebook in your kitchen junk drawer with something that is clean and always available.
+Funky Radish is a recipe app for real cooks. It's built to be a culinary tool. The goal is to remove any distraction from the act of cooking itself. It allows you to find recipes and store them indefinitely in a safe and accessible place. Where other recipe apps are mostly attempts at recreating the success of the food network in a digital format, Funky Radish only seeks to replace the tattered and stained recipe notebook in your kitchen junk drawer with something that is clean and always available.
 
 ## Implementation
 
@@ -34,7 +34,7 @@ So, with two apps complete, I wanted to build a web interface to complete the pl
 
 The completion and initial release of the basic MVP for this project represents a major personal milestone. This project has been a goal of mine for years, and only within the past year have I gained the skills required to follow through.
 
-But I do want to improve the system. While I find the app to be personally useful, it will take some iteration to make it attractive and useful for those who don't readily see the value of a simplified recipe storage system.
+Now I guess I have to start pushing refinements to the system. While I find the app to be personally useful, it will take some iteration to make it attractive and useful for those who don't readily see the value of a simplified recipe storage system.
 
 I think the first step is an overall image uplift. I need downloads to begin assessing the experience, and those downloads have been hard to come by. So I intend to put some focus into marketing and improving the mobile store listings to improve conversion.
 
@@ -43,3 +43,17 @@ An internal recipe database is a major draw for most users. If there's nothing t
 An internal database will be a major help to online marketing efforts. At the moment, the site has no search engine footprint, because it doesn't offer any content.
 
 Regardless of result, piecing together a complete platform from the ground up has been infinitely valuable. My entire understanding of software development has evolved greatly through the process, and I have the confidence to build increasingly complex systems.
+
+Having built out the MVP for Funky Radish, I'm a little stuck. My goal was to build a recipe app that I could use myself. I've released on web, Android and IOS, and I do use the app. And I don't use it just because I built it, I use the app because it's helpful to me. I consider that a major accomplishment.
+
+But now I've got new problems to solve. Mainly, nobody else is using it.
+
+So, like, why? First off, exposure has been minimal. I've had a few thousand impressions across all 3 platforms, but I've gotten no downloads and almost no engagement.
+
+It points straight to the app pages.
+
+Here's the Play Store page.
+
+![Funky Radish original Play Store listing.](/media/original-play-store-listing.png "The original Google Play Store listing for the Funky Radish recipe app.")
+
+Obviously this leaves a lot to be desired.
