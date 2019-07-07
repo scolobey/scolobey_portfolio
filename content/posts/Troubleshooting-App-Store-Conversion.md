@@ -10,7 +10,7 @@ tags:
   - "Mobile"
   - "ASO"
   - "IOS"
-description: "My app is getting impressions, but nobody is downloading. It's time to find out why."
+description: "My app listing on the App Store is getting impressions. But nobody is downloading. It's time to find out why."
 ---
 
 I've built and released 2 mobile apps and a web interface. So far, none of them are getting any real traffic. But, according to App Store connect analytics, my IOS app is getting impressions. So, as far as I can tell, my app is appearing in search results, but people are mostly scrolling right by it, and if they do happen to click in to see what it's all about, they don't download. So what's the deal?
