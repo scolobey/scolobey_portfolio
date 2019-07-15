@@ -1,5 +1,5 @@
 ---
-title: Setting up Google Anlytics on my Gatsby Site
+title: Setting up Google Analytics on my Gatsby Site
 date: "2019-07-15T23:46:37.121Z"
 template: "post"
 draft: false
