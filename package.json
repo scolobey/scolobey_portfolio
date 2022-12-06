@@ -57,7 +57,7 @@
     "gatsby-plugin-google-gtag": "^1.2.1",
     "gatsby-plugin-manifest": "^2.12.1",
     "gatsby-plugin-netlify": "^2.11.1",
-    "gatsby-plugin-netlify-cms": "^3.0.18",
+    "gatsby-plugin-netlify-cms": "^7.2.0",
     "gatsby-plugin-offline": "^2.2.10",
     "gatsby-plugin-react-helmet": "^3.10.0",
     "gatsby-plugin-sass": "^2.8.0",
