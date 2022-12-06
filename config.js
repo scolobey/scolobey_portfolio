@@ -14,6 +14,10 @@ module.exports = {
       path: '/'
     },
     {
+      label: 'Services',
+      path: '/services'
+    },
+    {
       label: 'Gallery',
       path: '/gallery'
     },
@@ -32,7 +36,7 @@ module.exports = {
     bio: 'Food. Technology. Other cool stuff.',
     contacts: {
       email: 'minedied@gmail.com',
-      twitter: '#',
+      twitter: 'scolobey',
       github: 'scolobey',
       rss: '#'
     }

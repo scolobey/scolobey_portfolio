@@ -33,7 +33,12 @@ const createPages = async ({ graphql, actions }) => {
     component: path.resolve('./src/templates/gallery-template.js')
   });
 
-  // Gallery
+  createPage({
+    path: '/services',
+    component: path.resolve('./src/templates/services-template.js')
+  });
+
+  // Sandbox
   createPage({
     path: '/sandbox',
     component: path.resolve('./src/templates/sandbox-template.js')

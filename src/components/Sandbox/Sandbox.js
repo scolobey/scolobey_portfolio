@@ -18,14 +18,10 @@ const Sandbox = () => (
 
     <div className={styles['sandbox__container']}>
 
-      <Alien width={30} />
-      <Alien width={100} fill="#49c" />
-      <Alien width={200} fill="#fa2" />
       <Alien
+        width={450}
         fill="#fff"
-        width={350}
-        className="telephone"
-        style={{ background: "#333", padding: "16px" }}
+        className="ufo"
       />
 
     </div>

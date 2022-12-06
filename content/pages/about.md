@@ -3,7 +3,7 @@ title: "About me"
 template: "page"
 ---
 
-I am extremely curious. For many years I was a cook. Cooking isn't a bad trade for someone who is curious. The lifestyle and the philosophy of cooking resonated with me. For a long time, I thought I'd always be a cook.
+I am curious. For many years I was a cook. Cooking isn't a bad trade for someone who is curious. The lifestyle and the philosophy of cooking resonated with me. For a long time, I thought I'd always be a cook.
 
 But at some point I moved into management. Cooking gave way to scheduling and ordering, designing and implementing systems, the organizational part of running a restaurant. And that's how I became curious about software.
 
